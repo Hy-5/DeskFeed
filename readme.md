@@ -1,0 +1,1 @@
+WIP - desktop RSS feed reader. Full description to come
